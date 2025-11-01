@@ -19,7 +19,6 @@ const kSecondaryColor = Color(0xffFFD465);
 const kOnSecondaryColor = Color(0xff784E00);
 const kDangerColor = Color(0xffF56C61);
 
-// Low Opacity Colors
 const kLinksColor = Color(0xff807D99);
 const kliColor = Color(0xffEEEEEE);
 
@@ -31,7 +30,7 @@ const Color cardColor = Color(0xFF00838F);
 const Color surahNumberColor = Color(0xFFC0A05D);
 
 
-const Color primaryColor1 = Color(0x115E548E); // اللون الأساسي الداكن
-const Color accentColor1 = Color(0xFFF0F0F0); // لون خفيف للخلفية (مثل الأبيض الفاتح)
-const Color buttonColor = Color(0xFF2B215E); // لون الأزرار الداكن
+const Color primaryColor1 = Color(0x115E548E);
+const Color accentColor1 = Color(0xFFF0F0F0);
+const Color buttonColor = Color(0xFF2B215E); 
 const Color iconColor = Color(0xFFF9DC5C);
